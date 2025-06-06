@@ -8,7 +8,7 @@ All of the relevant files to reproduce the analysis can be downloaded at our [Sy
 
 The most relevant file on the Github is `HFpEF_code.R`, which contains the code to reproduce findings in the manuscript. Please note that there are some small functions that I drew from other packages and workspaces on my Github (mostly for converting between Ensembl gene and gene symbol), so the code doesn't work entirely off download. Again, if you want to avoid that headache, you can just directly use the Rdata file from the Synapse.
 
-Otherwise, the other files on the Synapse include our clinical parameter data, as well as the list of what I used as the most important clinical parameters to be tested in our random forest models (`best_clin_param.txt`). At some point, I also did a quick dive into each gene identified as a predictor of HFpEF survival - some of my musings are included in the file called `genes.docx`.
+Otherwise, the other files on the Github is the list of what I used as the most important clinical parameters to be tested in our random forest models (`best_clin_param.txt`). At some point, I also did a quick dive into each gene identified as a predictor of HFpEF survival - some of my musings are included in the file called `genes.docx`.
 
 
 ### Dependencies
